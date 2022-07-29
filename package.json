@@ -1,0 +1,26 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "node server engine for reactZ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasanthvivi/todo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "todo",
+    "server",
+    "engine"
+  ],
+  "author": "Vasanth Karuppusamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasanthvivi/todo/issues"
+  },
+  "homepage": "https://github.com/Vasanthvivi/todo#readme"
+}
